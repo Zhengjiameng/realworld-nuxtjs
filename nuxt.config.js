@@ -2,7 +2,7 @@ export default {
   router: {
     linkActiveClass: 'active',
     extendRoutes(routes, resolve) {
-
+      //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
       //清除nuxt.js基于pages目录默认生成的路由表规则
       routes.splice(0)
       routes.push(...[{
